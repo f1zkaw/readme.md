@@ -1,47 +1,38 @@
-# Hi there! 👋
+# Hi, I'm f1zkaw! 👋
 
-## About Me
+### Frontend / Backend Developer
 
-I'm an aspiring Frontend Backend Developer
-interested in building reliable applications,
-REST APIs, and modern web projects.
+I'm an aspiring software developer interested in backend engineering, automation, and building practical applications.
 
-Currently expanding my skills in Go
-and backend development.
+I work with Python, HTML, CSS and JavaScript, and Go.
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
-- Python
-- HTML5 / CSS3
-- Go (learning)
-- JavaScript (learning)
+**Languages:** Python, HTML5, CSS3, JavaScript, Go 
 
-**Tools**
-- Git & GitHub
-- VS Code
+**Backend:** Telegram Bot API, REST APIs, SQLite
 
-## My Projects
+**Tools:** Git, GitHub, VS Code
 
-🚗 Porsche Showcase
-- Responsive automotive website
-- HTML, CSS, JavaScript
+## 🚀 Featured Projects
 
-🐍 Python Development
-- Python applications and automation
-- Backend experiments
+### [Telegram Course Bot](https://github.com/f1zkaw/telegram-course-bot-portfolio)
+A portfolio-safe version of a client Telegram bot featuring asynchronous workflows, SQLite, course access management, and payment integration examples.
 
-🚀 Go Learning
-- Algorithms and programming fundamentals
-- Future REST API projects
+### [AlgoTrack](https://github.com/f1zkaw/algotrack)
+An interactive algorithm visualizer featuring array inversions, frequency analysis, bingo simulations, and graph algorithms.
 
-## Currently Working On
+### [Porsche Showcase](https://github.com/f1zkaw/porsche-showcase)
+A modern responsive automotive website built with HTML, CSS, and JavaScript.
 
-- Improving backend development skills
-- Learning Go
-- Building portfolio projects
+## 📚 Currently Learning
 
-## Career Interests
+- Go programming and backend development
+- Software architecture and testing
+- Algorithms and data structures
 
-Open to Junior Developer roles
-and software engineering internships.
+## 🎯 Career Goals
+
+Interested in Frontend Developer and Backend Internship opportunities.
+
+Always learning, building, and improving my projects.
